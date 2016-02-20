@@ -1,2 +1,2 @@
 # HTML-Thumbnail-Window
-jQuery Script which help you reate mouse over modal window with content preview.
+This simple script help you to create image preview window on hover. 
